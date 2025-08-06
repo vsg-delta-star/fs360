@@ -1,0 +1,10 @@
+{
+  "name": "FamilyShield360 - Traffic Layer ",
+  "description": "A family safety app that provides real-time location tracking, safe zone alerts, and in-app messaging to keep your loved ones connected and safe.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ],
+  "prompt": ""
+}
